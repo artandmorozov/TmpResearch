@@ -1,2 +1,3 @@
-Interesting video about statistics research
-https://www.youtube.com/watch?v=XTcP4oo4JI4
+# TmpResearch (TODO: create topic)
+
+[Frequentist Hypothesis Testing](https://www.youtube.com/watch?v=XTcP4oo4JI4)
